@@ -12,3 +12,7 @@ Java XPath Engine (jaxen.jar)
 
 El codigo no realiza ningun manejo de errores, los mismos deben
 ser implementados por el desarrolador.
+
+## Disclaimer
+
+Este software y sus desarrolladores no tienen ninguna relación con la ARCA (anteriormente AFIP). Este proyecto es una herramienta independiente desarrollada con fines educativos o funcionales y no está respaldado, aprobado ni afiliado de ninguna manera con la ARCA.
